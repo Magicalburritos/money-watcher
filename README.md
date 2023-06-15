@@ -1,2 +1,2 @@
-# 01-starting-setup
+# Money Watcher
  udemy project
